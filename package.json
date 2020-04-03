@@ -4,7 +4,7 @@
   "description": "A React-based Google Books Search app",
   "main": "server.js",
   "private": true,
-  "author": "Cheree Nielson",
+  "author": "Ivo Kolev",
   "homepage": "https://github.com/arkevo/google-search-books",
   "dependencies": {
     "@sentry/browser": "^5.0.5",
